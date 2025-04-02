@@ -9,7 +9,7 @@ BCIWiki was originally set up in April of 2021 using MediaWiki version 1.35.2
 - logo.png - Logo
 - main.php - Alternate index page
 - Feedback/ - Contact form page with suggestions for categories to add to
-- Neurotech_Mindmap/ - An full-width iframe page displaying an amazing mindmap made by [Pedram Naghieh](https://github.com/PedRaMNG)
+- Neurotech_Mindmap/ - A full-width iframe page displaying an amazing mindmap made by [Pedram Naghieh](https://github.com/PedRaMNG)
 
 ## Extensions & Configuration
 These are the MediaWiki extensions that have been added to the site
