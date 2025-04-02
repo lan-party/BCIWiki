@@ -22,5 +22,6 @@ Along with these extensions, a Google analytics tracking tag was included and ne
 
 ## Important Links
 - https://bciwiki.org/index.php?title=Editor_Guide
+- https://github.com/lan-party/MediaWiki-Scripts
 - https://bciwiki.org/Feedback/
 - https://bciwiki.org/Neurotech_Mindmap/
