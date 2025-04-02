@@ -17,7 +17,7 @@ These are the MediaWiki extensions that have been added to the site
 - [AutoSitemap](https://www.mediawiki.org/wiki/Extension:AutoSitemap)
 - [YouTube](https://www.mediawiki.org/wiki/Extension:YouTube)
 - [Cite](https://www.mediawiki.org/wiki/Extension:Cite)
-- 
+
 Along with these extensions, a Google analytics tracking tag was included and a new account creation was disabled to combat spam.
 
 ## Important Links
