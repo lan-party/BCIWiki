@@ -38,3 +38,4 @@ Tasks related to data entry and all other work on BCIWiki.org should be tracked 
 - enforce invasive, noninvasive, and semi-invasive definitions and usage
 - what makes sense to have on the wiki? / bci vs other neurotech (no pharma, no surgical robotics, no PNS implants, etc.)
 - company table accuracy (application categories, imaging/stim techniques)
+- what should a table of all BCI applications, application categories, and subcategories look like and where will that info come from?
