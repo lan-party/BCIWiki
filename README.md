@@ -2,7 +2,7 @@
 
 ![Logo](web/logo.png)
 
-This repo contains project files associated with the wiki website [BCIWiki.org](https://BCIWiki.org). It includes only MediaWiki files which were edited, added web content, as well as site automation scripts for data entry, web scraping, and content generation.
+This repo contains project files associated with the wiki website [BCIWiki.org](https://BCIWiki.org). It includes edited MediaWiki files, additional web content, as well as site automation scripts for data entry, web scraping, and content generation.
 
 BCIWiki was originally set up in April of 2021 using MediaWiki version 1.35.2. Check out [CONTRIBUTING.md](CONTRIBUTING.md) to learn how you can become a contributor and help shape our understanding of neurotech.
 
