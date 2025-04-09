@@ -9,7 +9,7 @@ It doesn't take any special training to find new information and add it to the w
 - *Founders & Startup Teams* - data entry, content corrections
 
 ## Passive and active resource collection
-One of the primary ways people give back to the wiki is by sharing web links and creating wiki pages to catalog them. If you're someone who's interested in the topic of brain-computer interfaces, you likely already run into references and links to all sorts of resources that would fit in perfectly on the wiki. Passively finding things like new neurotech startups, neuroscience research papers, datasets, YouTube channels, and more could be a great way to help out in the pursuit of keeping BCIWiki updated.
+One of the primary ways people give back to the wiki is by sharing web links and creating wiki pages to catalog them. If you're someone who's interested in the topic of brain-computer interfaces, you likely already run into references and links to all sorts of resources that would fit in perfectly on the wiki. Passively finding things like new neurotech startups, neuroscience research papers, datasets, YouTube channels, and more can be a great way to help out in the pursuit of keeping BCIWiki updated.
 
 For taking a more active approach to online research, we'd recommend starting your search on social media or news platforms like LinkedIn, Reddit, Crunchbase, and Facebook. A few keywords that might be helpful in your search could be terms like "brain-computer interface" "neurotechnology", "EEG", "fMRI", or "deep brain stimulation".
 
@@ -19,7 +19,7 @@ Alternatively, you can send us your web links to resources you think should be a
 
 ## How to make your first edit
 1. Request an editor account by reaching out to [landon@bciwiki.org](mailto:landon@bciwiki.org) or by sending a message in our [Discord](https://discord.gg/3eqKb9bmFy)
-2. Select a data entry issue to work on OR suggest a new one task
+2. Select a data entry issue to work on OR suggest a new task
 3. Create or edit a page according to our [editor guidelines](https://bciwiki.org/index.php?title=Editor_Guide)
 4. Request feedback for your first few edits until you get the hang of things
 5. Consider reviewing someone else's recent changes
