@@ -1,0 +1,4 @@
+scripts/neurotechx-slack-analysis/data/*
+scripts/neurotechx-slack-analysis/export/*
+scripts/neurotechx-slack-analysis/*.json
+scripts/neurotechx-slack-analysis/*.txt

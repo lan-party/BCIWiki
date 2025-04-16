@@ -23,6 +23,8 @@ A collection of scripts created for automating the different workflows involved 
     - `generator.py` - Main script to create graphics with logo and country assets
     - `silhouette-color.py` - Replace all pixels in a set of images with a different color
     - `countries/` - Country silhouette PNGs
+- `neurotechx-slack-analysis/` - Analysis scripts for message data dumped from the NeuroTechX Slack using [slackdump](https://github.com/rusq/slackdump)
+    - `export_urls.py` - Take all URLs from message logs and organize them into files
 - `json_page_import.py` - Import JSON data from [NeurotechX](https://neurotechx.com/neurotech-ecosystem/) with manual verification. [Demo video here](https://drive.google.com/file/d/1he-GLCO5Wxq96iiPljpCqNO3G75q4YGm/view?usp=sharing)
 - `goodreads_import.py` - Scrape and import books from goodreads with manual verification
 - `nitrc_import.py` - Scrape and import software tools from nitrc.org with manual verification
