@@ -18,7 +18,7 @@ messages_filenames = ["C073WP1T9.json",  # general
                       "C073X2ZQW.json",  # hacknights
                       "C3525BTBN.json"]  # neurotechedu
 unique_urls = {}  # dict of unique urls grouped by domain name
-missing_urls = []  # list of urls with domains found on bciwiki
+missing_urls = []  # list of urls with domains not found on bciwiki
 
 
 # Check each message dump file for links
@@ -45,7 +45,7 @@ for messages_filename in messages_filenames:
 
 # Sort and save unique urls dict to .json file
 unique_urls = dict(sorted(unique_urls.items()))
-# open("scripts/neurotechx-slack-analysis/exported_urls.json", "w+").write(json.dumps(unique_urls))
+open("scripts/neurotechx-slack-analysis/exported_urls.json", "w+").write(json.dumps(unique_urls))
 
 
 # Check dict for domains with 10+ associated urls
