@@ -6,6 +6,7 @@ This repo contains project files associated with the wiki website [BCIWiki.org](
 
 BCIWiki was originally set up in April of 2021 using MediaWiki version 1.35.2. Check out [CONTRIBUTING.md](CONTRIBUTING.md) to learn how you can become a contributor and help shape our understanding of neurotech.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D7A420D51W)
 
 ## Contents
 ### `web/`
