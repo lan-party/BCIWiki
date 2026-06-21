@@ -34,6 +34,9 @@
 				background-color: #EEEEEE;
 				cursor: pointer;
 			}
+			.alert p {
+				font-size: 0.8rem;
+			}
 		</style>
 		  <meta name="viewport" content="width=device-width, initial-scale=1">
 	</head>
@@ -60,6 +63,15 @@
 							<div class="col-2 text-center">
 								<a class="text-decoration-none h2" href="https://discord.gg/3eqKb9bmFy"><span class="fa-brands fa-discord"></span></a>
 							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-lg-8 offset-lg-2 col-sm-12 mt-4">
+						<div class="alert alert-warning alert-dismissible fade show text-center" role="alert">
+							<p><strong>Please consider donating today. Your contributions help ensure the BCIWiki continues to grow as an open informational resource. <a href="https://ko-fi.com/bciwiki"> Click here to learn more</a>.</strong></p>
+							<p class="m-0">Also check out this <a href="https://medium.com/@landon.burress/27bd8035a6d1"> Letter to the Neurotech Community</a>.</p>
+							<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
 						</div>
 					</div>
 				</div>

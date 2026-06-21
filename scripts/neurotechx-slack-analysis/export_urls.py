@@ -31,7 +31,7 @@ for messages_filename in messages_filenames:
 
         for url in messages.split("http://"):
 
-            for split_char in ["\"", "'", "\\", "|", " ", "#", "?"]:
+            for split_char in list("\"'\\|)(][}{ #?"):
                 url = url.split(split_char)[0]
 
             # add domains + urls to unique_urls if they aren't already present
